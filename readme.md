@@ -1,7 +1,7 @@
 
 # StackOverflow-lite Version 1 11/14/2018
 
-StackOverflow-lite is a platform where people can ask questions and provide answers. 
+StackOverflow-lite is a platform where people can ask questions and provide answers..
 
 ## Getting Started
 
